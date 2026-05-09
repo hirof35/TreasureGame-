@@ -64,3 +64,5 @@ Good luck, Hunter. The maze is watching you.
 [ ] 迷宮のサイズ（難易度）選択機能
 
 [ ] スコアランキング（クリアタイム）の保存
+
+<img width="495" height="723" alt="スクリーンショット 2026-05-09 194509" src="https://github.com/user-attachments/assets/64134ed1-54c6-4405-a5f8-23bea18ce27a" />
